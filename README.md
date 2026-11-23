@@ -1,6 +1,8 @@
 # Launch Radar
 
 ![make.fun bounty: Build the best token launch radar](https://make.fun/badge/token-radar-01.svg)
+![rank](https://make.fun/badge/token-radar-01/333666656q-alt/token-launch-radar/rank.svg)
+![reward](https://make.fun/badge/token-radar-01/333666656q-alt/token-launch-radar/reward.svg)
 
 An entry for make.fun's [Build the best token launch radar](https://make.fun/bounty/token-radar-01) bounty ($1,325 in USDC, paid from escrow on Solana).
 
